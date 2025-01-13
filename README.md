@@ -25,13 +25,13 @@ Tailwind CSS for a sleek and responsive design.
 🏆 How to Run Locally
 If you want to play the game on your local machine, follow these steps:
 
-##Clone the repository:
+## Clone the repository:
 
-bash
+
 git clone https://github.com/Afza-Khursheed123/Rock-paper-scissor.git
 Navigate to the project directory:
 
-bash
+
 cd Rock-paper-scissor
 Open index.html in your browser and start playing!
 
