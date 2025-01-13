@@ -4,7 +4,7 @@ Welcome to the ultimate Rock Paper Scissors game! 🤘📄✂️
 This is a fun, interactive, and simple web game where you can challenge the computer in a classic game of Rock, Paper, Scissors. Play against the computer and see if you can beat it or end up in a tie! 😎
 
 ## 🚀 Demo
-You can check out the live demo of the game right here (if deployed on Netlify or any other platform).
+You can check out the live demo of the game right here https://your-chlidhood-gamerock-paper-scissor.netlify.app.
 
 ## 🕹️ How to Play
 Rock crushes Scissors.
