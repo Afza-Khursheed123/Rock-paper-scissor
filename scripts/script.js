@@ -21,7 +21,7 @@ const play=(user_choice)=>{
     if(user_choice==computer_choice){
         msg.innerText=`Tie`
     }
-    else if((user_choice=='rock' && computer_choice=='scissors') || (user_choice=='scissors' && computer_choice=='paper') || (user_choice=='paper' && computer_choice=='rock')){
+    else if((user_choice=='rock' && computer_choice=='scissor') || (user_choice=='scissor' && computer_choice=='paper') || (user_choice=='paper' && computer_choice=='rock')){
         userscore +=10;
         user_scorebox.innerText= userscore;
         msg.innerText=`You Win`
